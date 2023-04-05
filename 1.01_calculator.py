@@ -16,7 +16,7 @@ label.pack()
 
 rounding_scale = Scale(root, from_=0, to=10, orient=HORIZONTAL, label="Round up to:")
 rounding_scale.pack()
-"" addded rounding feature ""
+"" addded rounding feature for the app ""
 
 def add():
     result.set(float(num1.get()) + float(num2.get()))

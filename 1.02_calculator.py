@@ -53,5 +53,6 @@ square_root_button.pack()
 
 square_button = Button(root, text="sqr", command=square)
 square_button.pack()
+""" square features added """
 
 root.mainloop()
